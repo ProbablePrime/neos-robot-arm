@@ -1,0 +1,16 @@
+{
+  "name": "neos-robot-arm",
+  "version": "0.1.0",
+  "description": "Control an [owi-robot arm](http://www.owirobots.com/store/catalog/robotic-arm-and-accessories/owi-535pc-robotic-arm-kit-with-usb-pc-interface-184.html) with [beam.pro](https://beam.pro) controls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "owi-robot-arm": "0.0.2",
+    "ws": "^7.3.1"
+  }
+}
